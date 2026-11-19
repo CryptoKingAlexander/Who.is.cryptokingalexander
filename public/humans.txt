@@ -1,0 +1,15 @@
+/* TEAM */
+  Architect: Generic Multi-Domain Defense Architecture Group
+  Contact: ops [at] generic.app
+  Twitter: @GenericOps
+  Location: Distributed Sovereign Enclaves
+
+/* THANKS */
+  Open Source Intelligence & Systems Engineers across NATO, PLA, DoD, and Sovereign Cloud Enclaves.
+
+/* SITE */
+  Clearance: OMNICLEARANCE (Tier-0 Supreme)
+  Mathematical Core: OmniSingularity Training Set Math in a Super Hyperbook (1,526 Nodes / 56 Normal & Tactical Categories)
+  Standards: HTML5, CSS3, ES2024, Web App Manifest, Service Worker (PWA)
+  Components: Next.js 15 App Router, React 19, Tailwind CSS v4, Motion, KaTeX
+  Software: Google Cloud Run & AI Studio Build Pipeline

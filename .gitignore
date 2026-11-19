@@ -1,0 +1,15 @@
+node_modules/
+.next/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+*.exe
+.next_prod/
+out/
+bun.lock
+bun.lockb
+package-lock.json
+tsconfig.tsbuildinfo
+
